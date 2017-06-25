@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p>Hello World 1</p>
- <p>Hello World 2</p>
+<p>Hello</p>
+ <p>Hello</p>
  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script> 
 <script>
 var p = d3.select("body")
